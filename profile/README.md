@@ -14,7 +14,7 @@
 
 ---
 
-I've spent 18 years building software, 15 of them in ecommerce, most of it for global brands and most of it under NDA. COULLWORKS is where I put the tools I build for that work out in the open.
+@danrcoull spent 18 years building software, 15 of them in ecommerce, most of it for global brands and most of it under NDA. COULLWORKS is where I put the tools I build for that work out in the open.
 
 ## What I build
 
